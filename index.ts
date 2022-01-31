@@ -9,6 +9,7 @@ import { DateTime } from "./DateTime"
 import { Encoding } from "./Encoding"
 import { Language } from "./Language"
 import { Locale } from "./Locale"
+import { Time } from "./Time"
 
 export {
 	CallingCode,
@@ -22,4 +23,5 @@ export {
 	Encoding,
 	Language,
 	Locale,
+	Time,
 }
